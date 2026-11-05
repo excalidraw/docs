@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://plus.excalidraw.com/docs/sdk",
+      "permanent": true
+    },
+    {
       "source": "/docs/introduction/development",
       "destination": "https://plus.excalidraw.com/docs/sdk/development",
       "permanent": true
